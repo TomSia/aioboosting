@@ -1,3 +1,10 @@
+side.BoosterBackground {
+    background-image: url("./../images/Slide\ 16_9\ -\ 16.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 150vh;
+
 .BoosterBackground {
     background-image: url("./../images/Slide\ 16_9\ -\ 16.png");
     background-repeat: no-repeat;
